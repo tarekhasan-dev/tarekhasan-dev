@@ -6,10 +6,9 @@
 
 ```
 <!--- typing animation --->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Web+Developer;JavaScript+%26+TypeScript+Enthusiast;Building+Real-World+Web+Applications;Exploring+AI+%26+Cybersecurity" alt="Typing SVG" />
-</a>
-```
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=500&amp;size=25&amp;pause=1000&amp;color=2B90FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Aspiring+Full+Stack+Web+Developer;JavaScript+%26+TypeScript+Enthusiast;Building+Real-World+Web+Applications;Exploring+AI+%26+Cybersecurity" alt="Typing SVG" />
+
 
   </ul>
 </div>
