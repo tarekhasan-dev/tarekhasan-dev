@@ -1,3 +1,19 @@
+<!-- Profile Banner -->
+
+<p align="center">
+  <img 
+    src="YOUR_BANNER_IMAGE_URL" 
+    width="100%" 
+  <img
+    src="./Black%20Orange%20Blue%20Modern%20Professional%20LinkedIn%20Banner.png"
+    width="100%"
+    alt="Black Orange Blue Modern Professional Banner"
+  >
+  />
+</p>
+
+<br/>
+
 <ul align="center">
   <summary>
     <h1 style="display: inline-block">Hello World! 👋</h1>
@@ -93,16 +109,3 @@
 
 </p>
 
-<br/>
-
-<!-- Profile Banner -->
-
-<p align="center">
-  <img
-    src="./Black%20Orange%20Blue%20Modern%20Professional%20LinkedIn%20Banner.png"
-    width="100%"
-    alt="Black Orange Blue Modern Professional Banner"
-  />
-</p>
-
-<br/>
