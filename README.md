@@ -30,28 +30,48 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+
   <a href="https://github.com/tarekhasan-dev" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tarekhasan-dev" height="30" width="40" />
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+         alt="tarekhasan-dev"
+         height="30"
+         width="40" />
   </a>
 
   <a href="https://linkedin.com/in/tarekhasan-dev" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarekhasan-dev" height="30" width="40" />
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="tarekhasan-dev"
+         height="30"
+         width="40" />
   </a>
 
   <a href="https://fb.com/ifte138kw8" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ifte138kw8" height="30" width="40" />
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+         alt="ifte138kw8"
+         height="30"
+         width="40" />
   </a>
 
   <a href="https://discord.gg/tarekhasan0351_45075" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+         alt="Discord"
+         height="30"
+         width="40" />
   </a>
 
   <a href="mailto:hasantareksh@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="hasantareksh@gmail.com" height="30" width="40" />
+    <img align="center"
+         src="https://cdn.simpleicons.org/gmail"
+         alt="hasantareksh@gmail.com"
+         height="30"
+         width="40" />
   </a>
+
 </p>
-
-
 <br/>
 
 
