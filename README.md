@@ -13,12 +13,9 @@
 <br/>
 
  <!--- typo --->
- ```html
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E63946&center=true&vCenter=true&width=650&lines=%3E+Hello%2C+I'm+Tarek+Hasan;%3E+Aspiring+Full+Stack+Web+Developer;%3E+JavaScript+%26+TypeScript+Enthusiast;%3E+Building+Real-World+Web+Applications" alt="Terminal Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=%3E+Hello%2C+I'm+Tarek+Hasan;%3E+Aspiring+Full+Stack+Web+Developer;%3E+JavaScript+%26+TypeScript+Enthusiast;%3E+Building+Real-World+Web+Applications" alt="Terminal Typing Animation">
 </div>
-```
-
 <br/>
 
 
