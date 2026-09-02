@@ -78,41 +78,11 @@
 
 <br/>
 
+<p align="center">
+  <img src="https://media4.giphy.com/media/KGhpQ5eMOWKQurlHwI/giphy.webp" width="500" alt="Technology Stack Animation">
+</p>
 
 ## TECHNOLOGY STACK:
-
-### Languages:
-
-[Languages](https://github.com/tarekhasan-dev) ([image](https://skillicons.dev/icons?i=html,css,javascript,typescript))
-
-### CSS Frameworks & Libraries:
-
-[CSS Frameworks & Libraries](https://github.com/tarekhasan-dev) ([image](https://skillicons.dev/icons?i=tailwind))
-
-### JavaScript Frameworks & Libraries:
-
-[JavaScript Frameworks & Libraries](https://github.com/tarekhasan-dev) ([image](https://skillicons.dev/icons?i=react,nextjs))
-
-### Authentication:
-
-BetterAuth
-
-### Backend:
-
-[Backend](https://github.com/tarekhasan-dev) ([image](https://skillicons.dev/icons?i=nodejs,express))
-
-### Database & Model:
-
-[Database & Model](https://github.com/tarekhasan-dev) ([image](https://skillicons.dev/icons?i=mongodb))
-
-Mongoose
-
-### Version Control:
-
-[Version Control](https://github.com/tarekhasan-dev) ([image](https://skillicons.dev/icons?i=git,github))
-
-### Development Tools:
-
 [Development Tools](https://github.com/tarekhasan-dev) ([image](https://skillicons.dev/icons?i=vscode,postman))
 
 ### AI & Engineering:
