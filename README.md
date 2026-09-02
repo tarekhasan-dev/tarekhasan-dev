@@ -1,16 +1,14 @@
 <!-- Profile Banner -->
 
 <p align="center">
-  <img 
-    src="YOUR_BANNER_IMAGE_URL" 
-    width="100%" 
   <img
-    src="./Black%20Orange%20Blue%20Modern%20Professional%20LinkedIn%20Banner.png"
+    src="./github-profile-banner.png"
     width="100%"
-    alt="Black Orange Blue Modern Professional Banner"
-  >
+    alt="Tarek Hasan GitHub Profile Banner"
   />
 </p>
+
+<br/>
 
 <br/>
 
