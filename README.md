@@ -82,13 +82,4 @@
   <img src="https://media4.giphy.com/media/KGhpQ5eMOWKQurlHwI/giphy.webp" width="500" alt="Technology Stack Animation">
 </p>
 
-## TECHNOLOGY STACK:
-[Development Tools](https://github.com/tarekhasan-dev) ([image](https://skillicons.dev/icons?i=vscode,postman))
-
-### AI & Engineering:
-
-AI Mindset & Engineering  
-AI-Assisted Coding  
-Prompt Engineering  
-AI-Native Development Workflow
-
+![image alt ](Black Orange Blue Modern Professional LinkedIn Banner.png)
