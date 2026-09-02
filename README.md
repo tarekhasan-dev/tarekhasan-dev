@@ -79,7 +79,9 @@
 <br/>
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/KGhpQ5eMOWKQurlHwI/giphy.webp" width="500" alt="Technology Stack Animation">
+  <img 
+    src="YOUR_BANNER_IMAGE_URL" 
+    width="100%" 
+    alt="Black Orange Blue Modern Professional Banner"
+  >
 </p>
-
-![image alt ](Black Orange Blue Modern Professional LinkedIn Banner.png)
