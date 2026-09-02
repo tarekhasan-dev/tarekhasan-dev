@@ -25,18 +25,23 @@
 
 
 
-
 <!--- socials --->
 
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
 
 <div>
   <p align="left">
+    <a href="https://github.com/tarekhasan-dev" target="_blank">
+      <img src="https://skillicons.dev/icons?i=github" alt="tarekhasan-dev" height="30" width="40" />
+    </a>
     <a href="https://linkedin.com/in/tarekhasan-dev" target="_blank">
       <img src="https://skillicons.dev/icons?i=linkedin" alt="tarekhasan-dev" height="30" width="40" />
     </a>
     <a href="https://facebook.com/ifte138kw8" target="_blank">
       <img src="https://skillicons.dev/icons?i=facebook" alt="ifte138kw8" height="30" width="40" />
+    </a>
+    <a href="https://discord.gg/tarekhasan0351_45075" target="_blank">
+      <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" />
     </a>
     <a href="mailto:hasantareksh@gmail.com" target="_blank">
       <img src="https://skillicons.dev/icons?i=gmail" alt="hasantareksh@gmail.com" height="30" width="40" />
@@ -45,8 +50,6 @@
 </div>
 
 <br/>
-
-
 
 
 <h3 align="left">Connect with me:</h3>
