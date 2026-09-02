@@ -7,6 +7,7 @@
     alt="Tarek Hasan GitHub Profile Banner"
   />
 </p>
+
 <br/>
 
 <ul align="center">
@@ -14,6 +15,7 @@
     <h1 style="display: inline-block">Hello World! 👋</h1>
   </summary>
 </ul>
+
 <!-- Typing Animation -->
 
 <div align="center">
@@ -23,25 +25,20 @@
   />
 </div>
 
-
 <br/>
 
-<!-- About -->
+## ABOUT ME
 
-* 👨‍💻 Hi, I’m [**Tarek Hasan**](https://github.com/tarekhasan-dev)
-* 🎯 I’m an **Aspiring Full Stack Web Developer** focused on building modern and real-world web applications.
-* 🧩 Currently strengthening my **full-stack development** and software engineering skills.
-* 📚 Continuously learning through **hands-on projects, problem-solving, and practical development**.
-* 💡 Ask me about **JavaScript, Frontend Development, Git and GitHub**.
-* 🚀 Passionate about creating **clean, scalable and user-focused applications**.
-* 🔬 Exploring **AI, Machine Learning, Cybersecurity and Data Science**.
-* 📬 Reach me at [**Email**](mailto:hasantareksh@gmail.com)
+- 👨‍💻 Hi, I’m [**Tarek Hasan**](https://github.com/tarekhasan-dev)
+- 🎯 I’m an **Aspiring Full Stack Web Developer** focused on building modern and real-world web applications.
+- 🧩 Currently strengthening my **full-stack development** and software engineering skills.
+- 📚 Continuously learning through **hands-on projects, problem-solving, and practical development**.
+- 💡 Ask me about **JavaScript, Frontend Development, Git and GitHub**.
+- 🚀 Passionate about creating **clean, scalable and user-focused applications**.
+- 🔬 Exploring **AI, Machine Learning, Cybersecurity and Data Science**.
+- 📬 Reach me at [**Email**](mailto:hasantareksh@gmail.com)
 
 <br/>
-
-
-
-<!-- Socials -->
 
 <h3 align="left">
   <img
@@ -106,3 +103,4 @@
 
 </p>
 
+<br/>
