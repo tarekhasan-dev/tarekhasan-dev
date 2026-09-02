@@ -26,29 +26,35 @@
 
 
 <!--- socials --->
-
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
 
 <div>
   <p align="left">
+
     <a href="https://github.com/tarekhasan-dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=github" alt="tarekhasan-dev" height="30" width="40" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="40" />
     </a>
+
     <a href="https://linkedin.com/in/tarekhasan-dev" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" alt="tarekhasan-dev" height="30" width="40" />
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
     </a>
-    <a href="https://facebook.com/ifte138kw8" target="_blank">
-      <img src="https://skillicons.dev/icons?i=facebook" alt="ifte138kw8" height="30" width="40" />
+
+    <a href="https://www.facebook.com/ifte138kw8" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" height="30" width="40" />
     </a>
+
     <a href="https://discord.gg/tarekhasan0351_45075" target="_blank">
       <img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" />
     </a>
+
     <a href="mailto:hasantareksh@gmail.com" target="_blank">
-      <img src="https://skillicons.dev/icons?i=gmail" alt="hasantareksh@gmail.com" height="30" width="40" />
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="30" width="40" />
     </a>
+
   </p>
 </div>
 
+<br/>
 <br/>
 
 
