@@ -74,3 +74,55 @@
 <br/>
 
 
+<!--- socials --->
+
+<h3 align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  FOLLOW ME ON SOCIALS:
+</h3>
+
+<p align="left">
+
+  <a href="https://github.com/tarekhasan-dev" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+         alt="GitHub"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="https://linkedin.com/in/tarekhasan-dev" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         alt="LinkedIn"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="https://fb.com/ifte138kw8" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+         alt="Facebook"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="https://discord.gg/tarekhasan0351_45075" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+         alt="Discord"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="mailto:hasantareksh@gmail.com" target="_blank">
+    <img align="center"
+         src="https://cdn.simpleicons.org/gmail"
+         alt="Email"
+         height="30"
+         width="40" />
+  </a>
+
+</p>
+
+<br/>
