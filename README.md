@@ -1,6 +1,6 @@
 <!--- about --->
 
-* 👋 Hi, I’m **[@tarekhasan-dev](https://github.com/tarekhasan-dev)**
+* - 👋 Hi, I’m [**@tarekhasan-dev**](https://github.com/tarekhasan-dev)
 * 🖥️ I’m currently working with **HTML, CSS, JavaScript, TypeScript, React.js, Next.js and Tailwind CSS** for frontend development.
 * 🗄️ Exploring **Node.js, Express.js, MongoDB and Mongoose** for backend development.
 * 🛠️ I’m currently learning **TypeScript, React.js, Next.js and Full Stack Web Development**.
