@@ -1,24 +1,24 @@
-# Hi 👋, I'm Tarek Hasan
+<!--- about --->
 
-### Aspiring Full Stack Web Developer | JavaScript & TypeScript Enthusiast
+* 👋 Hi, I’m **[@tarekhasan-dev](https://github.com/tarekhasan-dev)**
+* 🖥️ I’m currently working with **HTML, CSS, JavaScript, TypeScript, React.js, Next.js and Tailwind CSS** for frontend development.
+* 🗄️ Exploring **Node.js, Express.js, MongoDB and Mongoose** for backend development.
+* 🛠️ I’m currently learning **TypeScript, React.js, Next.js and Full Stack Web Development**.
+* 💬 Ask me about **JavaScript, Frontend Development, Git and GitHub**.
+* 🚀 Focused on building **real-world projects** and improving my problem-solving and software engineering skills.
+* 🤖 Exploring **AI, Machine Learning, Cybersecurity and Data Science**.
+* 📫 Feel free to reach me at **[Email](mailto:hasantareksh@gmail.com)**
+* ⚡ Fun fact: **I'm always curious about new technologies and enjoy exploring AI, Machine Learning, Cybersecurity, and Data Science.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekhasan-dev&label=Profile views&color=0e75b6&style=flat" alt="tarekhasan-dev" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarekhasan-dev" alt="tarekhasan-dev" /></a> </p>
+ <!--- typo --->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Web+Developer;JavaScript+%26+TypeScript+Enthusiast;Building+Real-World+Web+Applications;Exploring+AI+%26+Cybersecurity" alt="Typing SVG" />
+</a>
 
-- 🔭 I'm currently working on **Building real-world web applications and improving my problem-solving skills.**
+<br/>
 
-- 🌱 I'm currently learning **TypeScript, React.js, Next.js, and Full Stack Web Development.**
-
-- 👯 I'm looking to collaborate on **Web development, open-source and real-world projects.**
-
-- 🤝 I'm looking for help with **Improving my software engineering skills and building better web applications.**
-
-- 💬 Ask me about **JavaScript, Frontend Development, Git and GitHub.**
-
-- 📫 How to reach me: **hasantareksh@gmail.com**
-
-- ⚡ Fun fact: **I'm always curious about new technologies and enjoy exploring AI, Machine Learning, Cybersecurity, and Data Science.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
