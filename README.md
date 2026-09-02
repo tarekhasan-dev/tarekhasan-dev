@@ -7,15 +7,13 @@
     alt="Tarek Hasan GitHub Profile Banner"
   />
 </p>
+<br/>
 
 <ul align="center">
   <summary>
     <h1 style="display: inline-block">Hello World! 👋</h1>
   </summary>
 </ul>
-<br/>
-
-
 <!-- Typing Animation -->
 
 <div align="center">
