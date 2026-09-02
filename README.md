@@ -29,6 +29,7 @@
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> CONNECT WITH ME:</b>
 
 <div>
+  
   <p align="left">
 
     <a href="https://github.com/tarekhasan-dev" target="_blank">
@@ -52,9 +53,9 @@
     </a>
 
   </p>
+  
 </div>
 
-<br/>
 <br/>
 
 
