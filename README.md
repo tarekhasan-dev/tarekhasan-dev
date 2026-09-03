@@ -121,7 +121,7 @@
 [![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,vercel)](https://github.com/tarekhasan-dev)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,daisyui,heroui,materialui)](https://github.com/tarekhasan-dev)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui)](https://github.com/tarekhasan-dev)
 
 ### JavaScript Frameworks & Libraries:
 [![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs)](https://github.com/tarekhasan-dev)
