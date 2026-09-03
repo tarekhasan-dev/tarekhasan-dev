@@ -130,18 +130,41 @@
 [![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/tarekhasan-dev)
 
 ### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mongoose,mysql)](https://github.com/tarekhasan-dev)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql)](https://github.com/tarekhasan-dev)
+
+### Design & Graphics:
+[![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/tarekhasan-dev)
+
+### Tools & Technologies:
+[![Tools & Technologies](https://skillicons.dev/icons?i=notion,git,github,vscode,postman,docker)](https://github.com/tarekhasan-dev)
+
+<br/>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=tarekhasan-dev&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=tarekhasan-dev&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=tarekhasan-dev&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--- statistics section  --->
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tarekhasan-dev&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+
+### GitHub Contributions:
+![Snake Grid](https://github.com/tarekhasan-dev/contribution-snake/blob/output/grid.svg)
+
+
+### GitHub Statistics:
+| <a><img align="center" src="https://github-readme-stats.shion.dev/api?username=tarekhasan-dev&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=tarekhasan-dev&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></a> |
+| ------------- | ------------- |
+
+
+### Repository Stats & Streak:
+| <a><img align="center" src="https://github-profile-trophy.vercel.app/?username=tarekhasan-dev&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=tarekhasan-dev&theme=flag-india&hide_border=false" /></a> |
+| ------------- | ------------- |
+
+<br/>
+
+<!--- random quote --->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
 
 ---
-[![](https://komarev.com/ghpvc/?username=tarekhasan-dev&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://komarev.com/ghpvc/?username=tarekhasan-dev&icon=2&color=12)](https://visitcount.itsvg.in)
