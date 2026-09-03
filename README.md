@@ -130,7 +130,7 @@
 [![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/tarekhasan-dev)
 
 ### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mongoose)](https://github.com/tarekhasan-dev)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mongoose,mysql)](https://github.com/tarekhasan-dev)
 
 
 # 📊 GitHub Stats:
