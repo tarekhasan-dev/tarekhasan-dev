@@ -104,11 +104,11 @@
 </p>
 <br/>
 
-<--Tech Stack-->
+<!-- Tech Stack -->
 
 <h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=FF0000&center=false&vCenter=true&width=300&lines=Tech+Stack" alt="Tech Stack" />
-</h2></br>
+</h2>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) 
