@@ -106,8 +106,13 @@
 
 <!-- Tech Stack -->
 
-<h2>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=FF0000&center=false&vCenter=true&width=300&lines=Tech+Stack" alt="Tech Stack" />
+<h2 align="left">
+  <img
+    src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"
+    width="35"
+    alt="Coding"
+  >
+  Tech Stack
 </h2>
 
 <br>
