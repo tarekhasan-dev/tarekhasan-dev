@@ -112,7 +112,7 @@
     width="35"
     alt="Coding"
   >
-  ## DEVELOPER TOOLKIT
+  <span style="color:#FF0000; font-size:32px;">DEVELOPER TOOLKIT</span>
 </h2>
 
 <br>
