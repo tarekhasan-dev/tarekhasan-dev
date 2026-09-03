@@ -124,7 +124,7 @@
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,materialui)](https://github.com/tarekhasan-dev)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs)](https://github.com/tarekhasan-dev)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/tarekhasan-dev)
 
 ### Backend:
 [![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/tarekhasan-dev)
