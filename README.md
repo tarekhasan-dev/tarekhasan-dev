@@ -118,16 +118,19 @@
 <br>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,vercel)](https://github.com/touhidcodes)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,vercel)](https://github.com/tarekhasan-dev)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,daisyui,heroui,materialui)](https://github.com/touhidcodes)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,daisyui,heroui,materialui)](https://github.com/tarekhasan-dev)
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs)](https://github.com/touhidcodes)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs)](https://github.com/tarekhasan-dev)
 
+### Backend:
+[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/tarekhasan-dev)
 
-
+### Database & Model:
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mongoose)](https://github.com/tarekhasan-dev)
 
 
 # 📊 GitHub Stats:
