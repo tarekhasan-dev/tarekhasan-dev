@@ -147,7 +147,7 @@
 
 ### GitHub Contributions:
 
-![snake gif](https://raw.githubusercontent.com/tarekhasan-dev/tarekhasan-dev/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/tarekhasan-dev/tarekhasan-dev/output/github-contribution-grid-snake.svg)
 
 
 ### GitHub Statistics:
