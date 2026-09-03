@@ -112,7 +112,7 @@
     width="35"
     alt="Coding"
   >
-  Tech Stack
+  ## DEVELOPER TOOLKIT
 </h2>
 
 <br>
