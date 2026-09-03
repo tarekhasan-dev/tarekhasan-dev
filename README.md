@@ -120,6 +120,9 @@
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,vercel)](https://github.com/touhidcodes)
 
+### CSS Frameworks & Libraries:
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,daisyui,heroui)](https://github.com/touhidcodes)
+
 ### JavaScript Frameworks & Libraries:
 [![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,nextjs)](https://github.com/touhidcodes)
 
