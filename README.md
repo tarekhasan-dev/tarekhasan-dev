@@ -136,7 +136,7 @@
 [![Design & Graphics](https://skillicons.dev/icons?i=figma,ai,ps)](https://github.com/tarekhasan-dev)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=notion,git,github,vscode,postman,docker)](https://github.com/tarekhasan-dev)
+[![Tools & Technologies](https://skillicons.dev/icons?i=notion,git,github,vscode,postman)](https://github.com/tarekhasan-dev)
 
 <br/>
 
@@ -146,7 +146,8 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/tarekhasan-dev/contribution-snake/blob/output/grid.svg)
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/tarekhasan-dev/contribution-snake/output/github-contribution-grid-snake.svg)
 
 
 ### GitHub Statistics:
