@@ -1,12 +1,4 @@
-<!-- Profile Banner -->
 
-<p align="center">
-  <img
-    src="./github-profile-banner.png"
-    width="100%"
-    alt="Tarek Hasan GitHub Profile Banner"
-  />
-</p>
 
 <br/>
 
